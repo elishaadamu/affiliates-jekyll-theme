@@ -172,6 +172,9 @@ small, .small {
     .text-hero{
         display: none !important;
     }
+    .carousel__indicators, .carousel__control--backward, .carousel__control--backward{
+        display: none;
+    }
 }
 .google-auto-placed {
     margin-bottom:2rem;
