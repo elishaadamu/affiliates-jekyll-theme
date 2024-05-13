@@ -173,7 +173,7 @@ small, .small {
         display: none !important;
     }
     .carousel__indicators, .carousel__control--backward, .carousel__control--backward{
-        display: none;
+        display: none !important;
     }
 }
 .google-auto-placed {
