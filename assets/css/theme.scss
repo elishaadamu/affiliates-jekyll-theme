@@ -22,10 +22,10 @@ body {
     transition: all 200ms linear;
     font-family: "PT Sans",sans-serif;
     line-height:1.7;
-    color: #333;
+    color: gold;
     overflow-x:hidden;
     padding-top:116px;
-    
+    // background-image: url({{site.baseurl}}/assets/images/IMG-20240513-WA0007.jpg);
 }
 .serif-font {
     font-family:PT Serif;
@@ -63,7 +63,10 @@ a {
 }
 img, video {max-width:100%;}
 
-
+.logo{
+   width: 200px;
+   height: auto; 
+}
 .item-card .categories {
     position: absolute;
     top: 10px;
@@ -172,7 +175,7 @@ small, .small {
     .text-hero{
         display: none !important;
     }
-    .carousel__indicators, .carousel__control--backward, .carousel__control--backward{
+    .carousel__indicators, .carousel__control--backward, .carousel__control--forward{
         display: none !important;
     }
 }
@@ -630,4 +633,46 @@ span.navigation:before {
 .hover-opacity:hover {
     transition: all .3s;
     opacity:.8;
+}
+
+#mc_embed_shell {
+    margin-top: 20px;
+    border-radius: 5px;
+}
+@media (min-width: 992px) {
+    #mc_embed_shell {
+        width: 70%;
+    }
+}
+#mc-embedded-subscribe{
+    color: white;
+    background-color: #000;
+    border-radius: 5px;
+    clear: both;
+    width: 50% !important;
+    display: block;
+    margin: 1em 0 1em 0% !important;
+    height: 45px;
+}
+#mc_embed_signup {
+    background: #ffffff;
+    margin: 50px 0px 50px 0px;
+    border-radius: 5px;
+    clear: left;
+    font: 14px Helvetica, Arial, sans-serif;
+}
+#mc_embed_signup h1 {
+    margin-top: 20px;
+}
+#mc_embed_signup .mc-field-group input {
+    display: block;
+    width: 100%;
+    padding: 8px 0;
+    text-indent: 2%;
+    border: 1px solid black;
+}
+.label-text{
+    color: black;
+    font-size: 15px;
+    font-weight: 600;
 }
