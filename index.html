@@ -2,6 +2,17 @@
 title: Home
 layout: default
 background: '/img/bg-index.jpg'
+carousels:
+  - images: 
+    - image: /assets/images/1.jpg
+    - image: /assets/images/2.jpg
+    - image: /assets/images/3.jpg
+    - image: /assets/images/4.jpg
+  - images: 
+    - image: /assets/images/5.jpg
+    - image: /assets/images/6.jpg
+    - image: /assets/images/2.jpg
+    - image: /assets/images/4.jpg
 ---
 
 <!-- Home Intro
@@ -20,6 +31,10 @@ background: '/img/bg-index.jpg'
   </div>
 </div>
 {% endif %}
+
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
+{% include carousel.html height="50" unit="%" duration="7" number="2" %}
 
 <!-- Featured
 ================================================== -->
