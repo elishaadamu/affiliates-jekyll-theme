@@ -676,3 +676,21 @@ span.navigation:before {
     font-size: 15px;
     font-weight: 600;
 }
+.card-block{
+    padding: 10px;
+}
+.card-block .author-meta{
+    color: #252525;
+}
+.sidebar h5:before {
+    margin-bottom: 0;
+    position: absolute;
+    z-index: 1;
+    left: 0px;
+    top: 15px;
+    width: 100%;
+    height: 1px;
+    content: "";
+    background-color: gold !important;
+}
+

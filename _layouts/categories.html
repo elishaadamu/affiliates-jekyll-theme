@@ -3,6 +3,35 @@ title: "Categories"
 layout: default
 permalink: "/categories.html"
 ---
+<style>
+    p, span, ul li, pre code{
+      color: whitesmoke !important;
+    }
+    h1, h2, h3, h4, h5, h6{
+      color: whitesmoke !important;
+    }
+    a{
+      color: gold !important;
+    }
+    ul.tags li a {
+    color: #333 !important;
+    padding: 3px 10px;
+    border-radius: 3px;
+    font-weight: 500;
+    background: #eee;
+    text-transform: capitalize;
+    box-shadow: 0 6px 10px 0 rgba(169, 169, 169, .1);
+}
+ul.tags li a:hover {
+    color: #4f4f4f !important;
+    padding: 3px 10px;
+    border-radius: 3px;
+    font-weight: 500;
+    background: #eee;
+    text-transform: capitalize;
+    box-shadow: 0 6px 10px 0 rgba(169, 169, 169, .1);
+}
+  </style>
 {% for category in site.categories %}
 <h4 class="mt-5 mb-4 pb-2 border-bottom" id="{{ category[0] | replace: " ","-" }}"><span class="text-capitalize small font-weight-bold">In "{{ category[0] }}"</span></h4>
 <div class="row">

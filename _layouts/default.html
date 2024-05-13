@@ -27,7 +27,8 @@ gtag('config', '{{site.ganalytics}}');
 {% endif %}
 
 </head>   
-    
+   
+
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body class="{{ layout }}" style="background-image: url({{site.baseurl}}/assets/images/background.png)">
 
