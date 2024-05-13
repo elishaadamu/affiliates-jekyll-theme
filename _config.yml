@@ -1,7 +1,7 @@
 title: "Affiliates"
 email: wowthemesnet@gmail.com
 url: http://avenueofabundance.com
-baseurl: "/hello-word"
+#baseurl: "/hello-word"
 timezone: UTC
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
