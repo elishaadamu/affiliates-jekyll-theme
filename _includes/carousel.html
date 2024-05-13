@@ -27,7 +27,7 @@
         <div class="carousel__track">
           <ul>
             {% for item in page.carousels[number].images %}
-            <li class="carousel__slide" style="background-image: url('{{site.baseurl}}/{{site.baseurl}}/{{ item.image }}');">
+            <li class="carousel__slide" style="background-image:url('{{site.url}}/{{site.baseurl}}/{{ item.image }}');">
                 {% if page.url == "/" %} 
                 <div class="rounded mb-5 hero">
                   <div class="row align-items-center justify-content-between">

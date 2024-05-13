@@ -178,6 +178,16 @@ small, .small {
     .carousel__indicators, .carousel__control--backward, .carousel__control--forward{
         display: none !important;
     }
+    .logo{
+        width: 100px !important;
+        height: auto; 
+     }
+}
+@media only screen and (max-width: 480px) {
+    .logo{
+        width: 60px !important;
+        height: auto; 
+     }
 }
 .google-auto-placed {
     margin-bottom:2rem;
@@ -694,3 +704,12 @@ span.navigation:before {
     background-color: gold !important;
 }
 
+.navbar-toggler {
+    padding: .25rem .75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    color: gold;
+}
