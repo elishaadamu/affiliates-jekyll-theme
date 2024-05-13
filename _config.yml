@@ -2,7 +2,6 @@ title: "Affiliates"
 email: wowthemesnet@gmail.com
 url: http://avenueofabundance.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
