@@ -161,10 +161,16 @@ small, .small {
     .layout-default .wrap-page-header {
         display:block;
     }
+    .text-hero{
+        display: none !important;
+    }
 }
 @media only screen and (max-width: 767px) {
     .page-header.big {
         font-size:2.5em;
+    }
+    .text-hero{
+        display: none !important;
     }
 }
 .google-auto-placed {
