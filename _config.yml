@@ -1,12 +1,12 @@
 title: "Avenue of Abundance"
-email: wowthemesnet@gmail.com
+email: avenueofabundance@gmail.com
 url: http://avenueofabundance.com
 #baseurl: "/hello-word"
 timezone: UTC
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: IKEBUDU
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
@@ -44,9 +44,9 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/avenueofabundance/
+  facebook: https://www.facebook.com/groups/320553697095694
+  twitter: https://twitter.com/AvenueAbundance
 
 # Plugins
 plugins: 
