@@ -2,7 +2,7 @@
 layout: post
 title:  "Breaking Free from the Rat Race: Escaping the Endless Cycle of a Poor Mindset"
 categories: [ Mindset, Rat ]
-author: ikebudu
+author: IKEBUDU
 image: assets/images/2.jpg
 ---
 
