@@ -3,7 +3,7 @@ layout: post
 title:  "The Magic of Gratitude: How Focusing on the Good Can Transform Your Life"
 categories: [ Abundance ]
 author: IKEBUDU
-image: assets/images/8.jpg
+image: assets/images/2.jpg
 ---
 
 Are you tired of feeling stuck in a cycle of negativity and dissatisfaction? Do you want to cultivate a more positive and fulfilling life? The answer lies in the magic of gratitude.

@@ -3,7 +3,7 @@ layout: post
 title:  "The Power of the Present Moment: Unlocking Abundance in the Here and Now"
 categories: [ Abundance ]
 author: IKEBUDU
-image: assets/images/7.jpg
+image: assets/images/3.jpg
 ---
 
 Are you tired of waiting for the perfect circumstances to arrive before you can experience abundance? Do you feel like you're constantly chasing a dream that's just out of reach? It's time to shift your focus to the present moment, where true abundance awaits.
