@@ -38,3 +38,7 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-archives
+
+url: "https://avenueofabundance.com" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
