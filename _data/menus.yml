@@ -10,6 +10,9 @@ topmenu:
 - title: About
   url: "about/"
 
+- title: Mission Statement
+  url: "mission/"
+
 - title: Contact
   url: "contact/"
 
