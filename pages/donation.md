@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Donate to Us
+title: 🌟 Make a Difference Today – Support Our Cause 🌟
 permalink: "/donate/"
 ---
-
-# 🌟 Make a Difference Today – Support Our Cause 🌟
 
 ## About Us
 We’re on a mission to spread the word: abundance is a way of thinking, not just a circumstance. And we’re here to inspire and empower you to embrace that mindset, unlocking your full potential and unleashing a future that’s richer and more fulfilling in every way.
