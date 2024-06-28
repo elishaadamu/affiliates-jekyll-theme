@@ -26,3 +26,5 @@ Have questions or need help with your donation? Contact us at [avenueofabundance
 
 ## Thank You
 Thank you for your generosity and support. Together, we can create a brighter future. 🌟🙌
+
+<iframe id='kofiframe' src='https://ko-fi.com/avenueofabundance/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='avenueofabundance'></iframe>
