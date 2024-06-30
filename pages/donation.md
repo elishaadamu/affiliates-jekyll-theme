@@ -17,7 +17,7 @@ Your support is crucial. Every donation, no matter the size, helps us continue o
 
 ## Ways to Donate
 You can donate through our secure online portal by clicking the link below:
-[💸 Donate Now](https://pay.squadco.com/link/9BQNVD)
+[💸 Donate Now](https://ko-fi.com/avenueofabundance)
 
 For more information, please contact us at [avenueofabundance@gmail.com](mailto:avenueofabundance@gmail.com).
 
@@ -26,5 +26,3 @@ Have questions or need help with your donation? Contact us at [avenueofabundance
 
 ## Thank You
 Thank you for your generosity and support. Together, we can create a brighter future. 🌟🙌
-
-<iframe id='kofiframe' src='https://ko-fi.com/avenueofabundance/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='avenueofabundance'></iframe>
