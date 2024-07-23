@@ -3,7 +3,7 @@ layout: post
 title:  "What is Abundance?"
 categories: [ Abundance ]
 author: IKEBUDU
-image: assets/images/5.jpg
+image: assets/images/blogs/5.jpg
 ---
 
 Abundance is a term that gets thrown around a lot, but what does it really mean? Is it just about having a lot of money or possessions? Or is it something more profound?

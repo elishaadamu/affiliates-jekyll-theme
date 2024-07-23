@@ -3,7 +3,7 @@ layout: post
 title:  "Do We Really Live in an Abundant World?"
 categories: [ Abundance ]
 author: IKEBUDU
-image: assets/images/6.jpg
+image: assets/images/blogs/6.jpg
 ---
 
 As we go about our daily lives, it's easy to get caught up in the hustle and bustle of our own personal struggles and forget to look at the bigger picture. We often find ourselves wondering if there's enough to go around, if we'll have enough resources, or if we'll be able to achieve our goals. But the question remains: do we really live in an abundant world?
