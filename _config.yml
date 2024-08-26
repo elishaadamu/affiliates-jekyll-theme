@@ -6,7 +6,7 @@ description: "To inspire an abundance mindset and broaden the mind to a richer a
 timezone: UTC
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/favicon.png'
 author: IKEBUDU
 paginate: 30
 disqus: 'demowebsite'
