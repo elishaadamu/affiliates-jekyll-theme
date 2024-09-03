@@ -42,3 +42,6 @@ plugins:
 url: "https://avenueofabundance.com" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
+
+include:
+  - robots.txt
