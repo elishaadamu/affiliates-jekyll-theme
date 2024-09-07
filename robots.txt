@@ -1,4 +1,5 @@
 User-agent: *
 Disallow: /google5d4b7cf37dfa8034.html
 Disallow: /categories/
-Disallow: /Ads.txt
+Disallow: /signin/
+Disallow: /home/
